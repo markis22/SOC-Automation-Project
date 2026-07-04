@@ -1,4 +1,4 @@
-<h1># SOC-Automation-Project (Not Complete)</h1>
+<h1>SOC-Automation-Project (Not Complete)</h1>
 
 <h2>Description</h2>
 
