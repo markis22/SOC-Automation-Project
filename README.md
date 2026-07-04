@@ -19,6 +19,8 @@
 
 - <b>VirtualBox - https://www.virtualbox.org/wiki/Download_Old_Builds_7_1</b> 
 - <b>Windows 11 ISO - https://www.microsoft.com/en-us/software-download/windows11</b>
+- <b>Sysmon v15.21 - https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon</b>
+- <b>Sysmon Config - https://github.com/olafhartong/sysmon-modular</b>
 
 <h2>Environments Used </h2>
 
@@ -39,5 +41,13 @@ Set up Windows 11 Virtual Machine on VirtualBox: <br/>
 <img src="https://i.imgur.com/u2iD0Oj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-  <br/>
-<img src="https://i.imgur.com/1oObYp7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In Windows 11 Virtual Machine: Download Sysmons 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Windows 11 Virtual Machine:
+<br />
+Select the Sysmon config from Olaf's GitHub and save it in your Sysmon's folder that you saved downloaded earlier
+  
+<br />
+<br />
