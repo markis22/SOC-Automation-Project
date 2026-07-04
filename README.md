@@ -18,7 +18,6 @@
 <h2>Download links</h2>
 
 - <b>VirtualBox - https://www.virtualbox.org/wiki/Download_Old_Builds_7_1</b> 
-- <b>Tenable Nessus - https://www.tenable.com/products/nessus/nessus-essentials</b>
 - <b>Windows 11 ISO - https://www.microsoft.com/en-us/software-download/windows11</b>
 
 <h2>Environments Used </h2>
